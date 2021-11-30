@@ -9,6 +9,7 @@ if(toolTipElements){
         const spanElement = document.createElement('span');
         const imgElement = document.createElement('img');
 
+        //przypisanie atrybutów
         if(element.dataset.tooltipType === 'image'){
             spanElement.setAttribute('class','tooltip__box tool tip__box--image');
             spanElement.appendChild(imgElement);
@@ -19,7 +20,6 @@ if(toolTipElements){
             spanElement.innerHTML = element.dataset.tooltipContent;
         }
 
-        //przypisanie atrybutów
         aElement.setAttribute('href',element.dataset.url);
 
         //usunięcie text i dodanie go do znacznika <a></a> jako anchor text
