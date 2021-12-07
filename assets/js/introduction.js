@@ -14,10 +14,8 @@ function createSpanElement(itemSpan, itemSpanType, itemSpanContent) {
         itemSpan.innerHTML = itemSpanContent;
         return itemSpan;
     }
-    else {
         itemSpan.setAttribute('class','tooltip__box tooltip__box--image');
         return itemSpan;
-    }
 }
 
 function createImgElement(itemImg, ItemImgContent) {
