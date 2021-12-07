@@ -30,6 +30,7 @@ function addText(textToChange,aElement){
     aElement.innerText = textToChange;
 }
 
+
 if(toolTipElements){
     toolTipElements.forEach(function(element){
         const aElement = createLinkElement(element,element.dataset.url);
