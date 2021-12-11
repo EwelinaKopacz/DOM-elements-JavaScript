@@ -24,17 +24,16 @@ function createImgElement(itemImg, ItemImgContent) {
     return itemImg;
 }
 
-function addText(textToChange,aElement){
+function addText(aElement,textToChange,){
     aElement.innerText = textToChange;
 }
-
 
 if(toolTipElements){
     toolTipElements.forEach(function(element){
         const aElement = createLinkElement(element,element.dataset.url);
         const spanElement = createSpanElement(element,element.dataset.tooltipType,element.dataset.tooltipContent);
 
-        addText(element.innerText,aElement);
+        addText(aElement, element.innerText,);
         element.innerText = '';
 
         if(element.dataset.tooltipType === 'image'){
