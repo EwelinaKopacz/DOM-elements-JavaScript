@@ -20,7 +20,7 @@ Please visit the website below to see the result of this project
 * Live Site URL: [E.Kopacz JS DOM Elements Project](https://ekopacz-js-dom-project.netlify.app)
 
 ## Solutions
-Creating this project I had a opportunity to practice:
+Creating this project I had an opportunity to practice:
 * creating and adding new elements in HTML with appropriate attributes using only JS,
 * creating function for repetitive elements like:
     * function to create: a, span, ul, li tags and function to change innerText.
