@@ -1,5 +1,6 @@
 # JavaScript DOM Elements Project
 
+## About the project:
 My second project in JavaScript. Using existing code, I had to add two functionality like:
 
 1. Tooltip - there are two type of tooltip, text and image
