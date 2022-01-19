@@ -94,7 +94,7 @@ if(mainElement){
         }
 
         children.forEach(function(value){
-            const secondLiLevel = createLiElement(element); // nie podaje 2 argumentu i II poziom LI ma data-id="undefined", mozna to zmienić?
+            const secondLiLevel = createLiElement(element); 
             const secondALevel = createLinkElement(element,value.link);
             secondUl.appendChild(secondLiLevel).appendChild(secondALevel);
             changeText(secondALevel,value.text);
