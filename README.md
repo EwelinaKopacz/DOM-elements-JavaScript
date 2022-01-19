@@ -3,7 +3,7 @@
 My second project in JavaScript. Using existing code, I had to add two functionality like:
 
 1. Tooltip - there are two type of tooltip, text and image
-2. Table of content - based on an array of objects
+2. Table of content - based on an array of object
 
 I couldn't modify HTML code.
 I added solutions only in JS file.
@@ -17,7 +17,7 @@ Please visit the website below to see the result of this project
 * CSS
 
 ## Links
-* Live Site URL: [E.Kopacz JS Form Excursion Project](https://ekopacz-js-dom-project.netlify.app)
+* Live Site URL: [E.Kopacz JS DOM Elements Project](https://ekopacz-js-dom-project.netlify.app)
 
 ## Solutions
 Creating this project I had a opportunity to practice:
