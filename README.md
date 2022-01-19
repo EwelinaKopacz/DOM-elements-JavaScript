@@ -29,7 +29,8 @@ Creating this project I had an opportunity to practice:
 * using objects in array.
 
 ### Feel free to contact me:
-* Live Site URL: [E.Kopacz JS Form Excursion Project](https://ekopacz-js-form-project.netlify.app)
+* [Linkedin](https://www.linkedin.com/in/ewelina-kopacz-929559100/) - Ewelina Kopacz
+
 
 ### Project preview
 
